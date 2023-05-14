@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CalculateGST", "CalculateGST.vbproj", "{48DE665D-1E60-4D86-BC17-4B4CA0084808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48DE665D-1E60-4D86-BC17-4B4CA0084808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48DE665D-1E60-4D86-BC17-4B4CA0084808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48DE665D-1E60-4D86-BC17-4B4CA0084808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48DE665D-1E60-4D86-BC17-4B4CA0084808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C166C59-BB73-41DF-99CD-6D11B79F6B71}
+	EndGlobalSection
+EndGlobal
