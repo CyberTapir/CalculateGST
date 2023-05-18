@@ -14,11 +14,3 @@
         Next i
     End Sub
 End Class
-
-'This function 
-'Private Function addGST(excGST As Single) As Single
-'    Const GST_rate As Integer = 10
-'    Dim incGST As Single
-'    incGST = excGST * (1 + (GST_rate / 100))
-'    Return incGST
-'End Function
